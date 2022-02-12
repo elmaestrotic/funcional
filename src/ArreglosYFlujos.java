@@ -6,7 +6,7 @@ public class ArreglosYFlujos {
     public static void main(String[] args) {
         Integer[] valores = {2, 9, 5, 0, 3, 7, 1, 4, 8, 6};
 
-        // muestra los valores originales
+        // Muestra los valores originales del array
         System.out.printf("Valores originales: %s%n", Arrays.asList(valores));
         // ordena los valores en forma ascendente con flujos
         System.out.printf("Valores ordenados: %s%n",
